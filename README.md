@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+# My name is Luis Fernando, and I'm a front end developer.
+
+My speciality is React JS, as a tool for make user interfaces
+In adition I'm a passionate for learn evething, since science, technnology and photography
+
+
 <!--
 **Fernu292/Fernu292** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
