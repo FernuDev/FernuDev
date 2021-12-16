@@ -15,6 +15,7 @@ about C++, Python and JavaScript.
 - [Asincronismo JS](https://platzi.com/p/fenu/curso/1789-asincronismo-js/diploma/detalle/)
 - [Basic C++](https://platzi.com/p/fenu/curso/2372-c-plus-plus/diploma/detalle/)
 - [Basic Python](https://platzi.com/p/fenu/curso/1937-python/diploma/detalle/)
+- [Programming Oriented Object](https://platzi.com/p/fenu/curso/2373-c-plus-plus-poo/diploma/detalle/)
 
 ## My personal Page 
 
