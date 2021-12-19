@@ -25,6 +25,20 @@ my public projects, like ArckSpace, Dollment, News Page, Banks img, and others.
 [My personal page]( https://fernu.netlify.app/ )
 
 
+## My skills and technologies 
+
+Around on my preparation as a software developer I have learning a lot of skills and technologies, for web development and desktop development, here is a little list of the programming languages that I know:
+
+- JavaScript
+- C++ 
+- Python
+- HTML/CSS
+- Web responsive Desing 
+- React js
+- Webpack
+- Gulp
+- SASS 
+- C#
 <!--
 **Fernu292/Fernu292** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
