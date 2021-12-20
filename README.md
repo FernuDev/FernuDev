@@ -16,6 +16,7 @@ about C++, Python and JavaScript.
 - [Basic C++](https://platzi.com/p/fenu/curso/2372-c-plus-plus/diploma/detalle/)
 - [Basic Python](https://platzi.com/p/fenu/curso/1937-python/diploma/detalle/)
 - [Programming Oriented Object](https://platzi.com/p/fenu/curso/2373-c-plus-plus-poo/diploma/detalle/)
+- [Webpack](https://platzi.com/p/fenu/curso/2242-webpack/diploma/detalle/)
 
 ## My personal Page 
 
