@@ -39,7 +39,6 @@ Around on my preparation as a software developer I have learning a lot of skills
 - Webpack
 - Gulp
 - SASS 
-- C#
 - Java
 <!--
 **Fernu292/Fernu292** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
