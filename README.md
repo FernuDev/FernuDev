@@ -8,6 +8,7 @@ In adition I'm a passionate for learn evething, since science, technnology and p
 On my Github you will find some of my projects and how its work, since frontend developer with some pages, to didactics repositories
 about C++, Python and JavaScript.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fernu292&show_icons=true&theme=radical)
 
 ## My certifications 
 - [Frontend developer](https://platzi.com/p/fenu/curso/2467-frontend-developer/diploma/detalle/)
