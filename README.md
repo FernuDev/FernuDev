@@ -31,4 +31,4 @@ my public projects, like ArckSpace, Dollment, News Page, Banks img, and others.
 
 Around on my preparation as a software developer I have learning a lot of skills and technologies, for web development and desktop development, here is a little list of the programming languages that I know:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernu292&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernu292&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
