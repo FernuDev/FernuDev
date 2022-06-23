@@ -11,10 +11,13 @@ about C++, Python and JavaScript.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fernu292&show_icons=true&theme=radical)
 
 ## My certifications 
+- [JavaScript Scholl](https://platzi.com/p/fenu/ruta/100-escuela-javascript/diploma/detalle/)
 - [Frontend developer](https://platzi.com/p/fenu/curso/2467-frontend-developer/diploma/detalle/)
+- [React profesional Hooks](https://platzi.com/p/fenu/curso/2118-react-hooks/diploma/detalle/)
 - [ES6+](https://platzi.com/p/fenu/curso/1815-ecmascript-6/diploma/detalle/)
 - [Asincronismo JS](https://platzi.com/p/fenu/curso/1789-asincronismo-js/diploma/detalle/)
 - [Basic C++](https://platzi.com/p/fenu/curso/2372-c-plus-plus/diploma/detalle/)
+- [POO C++](https://platzi.com/p/fenu/curso/2373-c-plus-plus-poo/diploma/detalle/)
 - [Basic Python](https://platzi.com/p/fenu/curso/1937-python/diploma/detalle/)
 - [Programming Oriented Object](https://platzi.com/p/fenu/curso/2373-c-plus-plus-poo/diploma/detalle/)
 - [Webpack](https://platzi.com/p/fenu/curso/2242-webpack/diploma/detalle/)
