@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-# My name is Luis Fernando, and I'm a front end developer.
+# My name is Luis Fernando, and I'm an Aeronautical Engineering Student and a Front end Developer.
 
-My speciality is React JS, as a tool for make user interfaces
+My speciality is React JS, as a tool for make user interfaces, and C++ for solve real problems and improve the performance of some projects
 In adition I'm a passionate for learn evething, since science, technnology and photography.
 
-On my Github you will find some of my projects and how its work, since frontend developer with some pages, to didactics repositories
+On my Github you will find some of my projects and how its works, since frontend developer with some pages, to didactics repositories
 about C++, Python and JavaScript.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fernu292&show_icons=true&theme=radical)
