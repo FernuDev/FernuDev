@@ -5,6 +5,8 @@
 My speciality is React JS, as a tool for make user interfaces, and C++ for solve real problems and improve the performance of some projects
 In adition I'm a passionate for learn evething, since science, technnology and photography.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Fernu292&label=Profile%20views&color=0e75b6&style=flat" alt="crcristo" /> </p>
+
 On my Github you will find some of my projects and how its works, since frontend developer with some pages, to didactics repositories
 about C++, Python and JavaScript.
 
