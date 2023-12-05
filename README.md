@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# My name is Fernando, and I'm an Aeronautical Engineering Student, a Physics student, and a Front end Developer.
+# My name is Fernando, and I'm an Aeronautical Engineering Student, a Physics student, and a Front-end Developer.
 
 My specialty is React JS, as a tool for making user interfaces, and C++ for solving real problems and improving the performance of some projects
 In addition, I'm passionate about learning everything, including science, technology, and photography.
@@ -11,26 +11,6 @@ On my Github you will find some of my projects and how they work, since frontend
 about C++, Python, and JavaScript.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fernu292&show_icons=true&theme=radical)
-
-## My certifications 
-- [JavaScript Scholl](https://platzi.com/p/fenu/ruta/100-escuela-javascript/diploma/detalle/)
-- [Frontend developer](https://platzi.com/p/fenu/curso/2467-frontend-developer/diploma/detalle/)
-- [React profesional Hooks](https://platzi.com/p/fenu/curso/2118-react-hooks/diploma/detalle/)
-- [ES6+](https://platzi.com/p/fenu/curso/1815-ecmascript-6/diploma/detalle/)
-- [Asincronismo JS](https://platzi.com/p/fenu/curso/1789-asincronismo-js/diploma/detalle/)
-- [Basic C++](https://platzi.com/p/fenu/curso/2372-c-plus-plus/diploma/detalle/)
-- [POO C++](https://platzi.com/p/fenu/curso/2373-c-plus-plus-poo/diploma/detalle/)
-- [Basic Python](https://platzi.com/p/fenu/curso/1937-python/diploma/detalle/)
-- [Programming Oriented Object](https://platzi.com/p/fenu/curso/2373-c-plus-plus-poo/diploma/detalle/)
-- [Webpack](https://platzi.com/p/fenu/curso/2242-webpack/diploma/detalle/)
-
-## My Personal Page 
-
-If you want to see my projects in real-time, as a web page and not only code, you can visit my web page, where I have 
-my public projects, like ArckSpace, Dollment, News Page, Banks img, and others.
-
-[My personal page]( https://fernu.netlify.app/ )
-
 
 ## My skills and technologies 
 
