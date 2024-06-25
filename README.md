@@ -7,10 +7,7 @@ In addition, I'm passionate about learning everything, including science, techno
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Fernu292&label=Profile%20views&color=0e75b6&style=flat" alt="Fernu292" /> </p>
 
-On my Github you will find some of my projects and how they work, since frontend developer with some pages, to didactics repositories
-about C++, Python, and JavaScript.
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fernu292&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fernu292&show_icons=true&theme=tokyonight)
 
 ## My skills and technologies 
 
