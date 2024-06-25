@@ -27,6 +27,17 @@
 
 Around my preparation as a software developer, I have learned a lot of skills and technologies, for web development and desktop development, here is a little list of the programming languages that I know:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernu292&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Fernu292&layout=compact&theme=tokyonight" alt = "Github most used languages">
+      </td>
+      <td>
+        <img src = "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fernu292&theme=tokyonight" alt = "Sumary" >
+      </td>
+    </tr>
+  </table>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Fernu292&label=Profile%20views&color=0e75b6&style=flat" alt="Fernu292" /> </p>
