@@ -5,7 +5,7 @@
 ---
 - 🔭 I'm a Linux Enthusiast who likes to play around with Computers and stuff.
 - 📫 I'm currently learned CS and more
-- 🌱 You can follow me on Youtube [Youtube](https://www.youtube.com/@FernuDev/featured)
+- 🌱 You can follow me on [Youtube](https://www.youtube.com/@FernuDev/featured)
 ---
 
 <div align="center">
