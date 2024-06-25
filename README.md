@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# My name is Fernando, and I'm an a Physics student, and a Full stack dev.
+# My name is Fernando, and I'm a Physics student, and a Full stack dev.
 
 ---
 - 🔭 I'm a Linux Enthusiast who likes to play around with Computers and stuff.
@@ -8,10 +8,20 @@
 - 🌱 You can follow me on Youtube [Youtube](https://www.youtube.com/@FernuDev/featured)
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fernu292&show_icons=true&theme=tokyonight)
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Fernu292&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats)
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Fernu292&show_icons=true&theme=tokyonight" alt="Anurag's GitHub stats"/>
+      </td>
+      <td>
+        <a href="https://git.io/streak-stats">
+          <img src="https://github-readme-streak-stats.herokuapp.com?user=Fernu292&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480" alt="GitHub Streak"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## My skills and technologies 
 
