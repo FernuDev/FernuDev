@@ -14,11 +14,6 @@
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=Fernu292&show_icons=true&theme=tokyonight" alt="Anurag's GitHub stats"/>
       </td>
-      <td>
-        <a href="https://git.io/streak-stats">
-          <img src="https://github-readme-streak-stats.herokuapp.com?user=Fernu292&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480" alt="GitHub Streak"/>
-        </a>
-      </td>
     </tr>
   </table>
 </div>
