@@ -12,10 +12,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Fernu292&show_icons=true&theme=tokyonight" alt="Anurag's GitHub stats"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=FernuDev&show_icons=true&theme=tokyonight" alt="Anurag's GitHub stats"/>
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=Fernu292&theme=darcula&hide_border=true" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=FernuDev&theme=darcula&hide_border=true" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
@@ -29,13 +29,13 @@ Around my preparation as a software developer, I have learned a lot of skills an
   <table>
     <tr>
       <td>
-        <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Fernu292&layout=compact&theme=tokyonight" alt = "Github most used languages">
+        <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=FernuDev&layout=compact&theme=tokyonight" alt = "Github most used languages">
       </td>
       <td>
-        <img src = "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fernu292&theme=tokyonight" alt = "Sumary" >
+        <img src = "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FernuDev&theme=tokyonight" alt = "Sumary" >
       </td>
     </tr>
   </table>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Fernu292&label=Profile%20views&color=0e75b6&style=flat" alt="Fernu292" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=FernuDev&label=Profile%20views&color=0e75b6&style=flat" alt="Fernu292" /> </p>
