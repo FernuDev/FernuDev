@@ -14,6 +14,9 @@
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=FernuDev&show_icons=true&theme=tokyonight" alt="Anurag's GitHub stats"/>
       </td>
+      <td>
+        <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=FernuDev&layout=compact&theme=tokyonight" alt = "Github most used languages">
+      </td>
     </tr>
   </table>
 </div>
@@ -25,9 +28,6 @@ Around my preparation as a software developer, I have learned a lot of skills an
 <div align="center">
   <table>
     <tr>
-      <td>
-        <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=FernuDev&layout=compact&theme=tokyonight" alt = "Github most used languages">
-      </td>
       <td>
         <img src = "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FernuDev&theme=tokyonight" alt = "Sumary" >
       </td>
