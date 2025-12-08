@@ -12,10 +12,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=FernuDev&show_icons=true&theme=tokyonight" alt="Anurag's GitHub stats"/>
+        <img src="https://github-readme-stats-khaki-six-97.vercel.app/api?username=FernuDev&show_icons=true&theme=tokyonight" alt="Anurag's GitHub stats"/>
       </td>
       <td>
-        <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=FernuDev&layout=compact&theme=tokyonight" alt = "Github most used languages">
+        <img src = "https://github-readme-stats-khaki-six-97.vercel.app/api/top-langs/?username=FernuDev&layout=compact&theme=tokyonight" alt = "Github most used languages">
       </td>
     </tr>
   </table>
