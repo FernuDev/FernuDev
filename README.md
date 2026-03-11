@@ -8,19 +8,6 @@
 - 🌱 You can follow me on [Youtube](https://www.youtube.com/@FernuDev/featured)
 ---
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats-khaki-six-97.vercel.app/api?username=FernuDev&show_icons=true&theme=tokyonight" alt="Anurag's GitHub stats"/>
-      </td>
-      <td>
-        <img src = "https://github-readme-stats-khaki-six-97.vercel.app/api/top-langs/?username=FernuDev&layout=compact&theme=tokyonight" alt = "Github most used languages">
-      </td>
-    </tr>
-  </table>
-</div>
-
 ## My skills and technologies 
 
 Around my preparation as a software developer, I have learned a lot of skills and technologies, for web development and desktop development, here is a little list of the programming languages that I know:
